@@ -1,0 +1,2 @@
+# journal
+My own journal
